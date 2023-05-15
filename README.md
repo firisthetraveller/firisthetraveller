@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I'm currently a second year student at the IMAC Engineering school, near Paris.
+🌱 I'm learning C++ and computer graphics with OpenGL.
+
+💬 Ask me about unusual and experimental dishes, we can have some interesting things going!
 <!--
 **guy-luong/guy-luong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
