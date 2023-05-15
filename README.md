@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I'm currently a second year student at the IMAC Engineering school, near Paris.
-- 🌱 I'm learning C++ and computer graphics with OpenGL.
+- 🌟 I am proficient in C++, Java and Python.
+- 🌱 I'm learning computer graphics with OpenGL.
 - ❤️ I love algorithms, drawing and cooking!
 - 💬 Ask me about unusual, experimental and potentially bad dishes, we can have some interesting things going!
 <!--
