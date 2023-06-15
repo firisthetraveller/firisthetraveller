@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I'm currently a second year student at the IMAC Engineering school, near Paris.
-- 🌟 I am proficient in C++, Java and Python.
+- 🌟 I am proficient in:
+  - 🖥️ computer desktop development in C++, Java and Python
+  - 🕸️ web development in Javascript and frameworks such as VueJS and ReactJS.
 - 🌱 I'm learning computer graphics with OpenGL.
 - ❤️ I love algorithms, drawing and cooking!
 - 💬 Ask me about unusual, experimental and potentially bad dishes, we can have some interesting things going!
