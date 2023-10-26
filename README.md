@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently a third year student at the IMAC Engineering school / ESIEE Paris, and I enrolled in an entrepreneurship course until February 2024.
+- 🏫 I'm currently a third year student at the IMAC / ESIEE Paris Engineering School, and I enrolled in an entrepreneurship course until February 2024.
 - 🌟 I am proficient in:
   - 🖥️ computer desktop development in C++, Java and Python
   - 🕸️ web development in Javascript and frameworks such as VueJS and ReactJS.
