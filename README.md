@@ -4,7 +4,7 @@
 - 🌟 I am proficient in:
   - 🖥️ computer desktop development in C++, Java and Python
   - 🕸️ web development in Javascript and frameworks such as VueJS and ReactJS.
-- 🌱 I'm learning computer graphics with OpenGL.
+- 🌱 I'm learning game engines with Unity.
 - ❤️ I love algorithms, drawing and cooking!
 - 💬 Ask me about unusual, experimental and potentially bad dishes, we can have some interesting things going!
 <!--
