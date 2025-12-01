@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🏫 I'm currently a third year student at the IMAC / ESIEE Paris Engineering School, and I enrolled in an entrepreneurship course until February 2024.
+- 🏫 I recently finished a degree at IMAC / ESIEE Paris Engineering School.
 - 🌟 I am proficient in:
   - 🖥️ computer desktop development in C++, Java and Python
-  - 🕸️ web development in Javascript and frameworks such as VueJS and ReactJS.
-- 🌱 I'm learning game engines with Unity.
+  - 🕸️ web development in ReactJS and Firebase
+- 🌱 I'm learning newer technologies such as Next.JS for the server-side rendering and Express with MongoDB.
 - ❤️ I love algorithms, drawing and cooking!
-- 💬 Ask me about unusual, experimental and potentially bad dishes, we can have some interesting things going!
 <!--
 **guy-luong/guy-luong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
