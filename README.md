@@ -3,8 +3,8 @@
 - 🏫 I recently finished a degree at IMAC / ESIEE Paris Engineering School.
 - 🌟 I am proficient in:
   - 🖥️ computer desktop development in C++, Java and Python
-  - 🕸️ web development in ReactJS and Firebase
-- 🌱 I'm learning newer technologies such as Next.JS for the server-side rendering and MongoDB.
+  - 🕸️ web development in React and Firebase / Supabase (cloud databases)
+- 🌱 I'm learning Next.JS for the server-side rendering and D3.
 - ❤️ I love algorithms, drawing and cooking!
 <!--
 **guy-luong/guy-luong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
